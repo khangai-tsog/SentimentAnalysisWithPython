@@ -16,3 +16,6 @@ Graduation thesis project done at Tsuruoka College of Technology\
 || re 2.2.1 |
 || SKLearn 1.0.2 |
 || spaCy 2.3.5 |
+
+
+bla bla bla jkjdkj
