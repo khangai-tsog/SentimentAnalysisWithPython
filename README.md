@@ -8,6 +8,7 @@ This project used the IMDB dataset @https://ai.stanford.edu/~amaas/data/sentimen
 - CNN model
 - spaCy model
 
+### Technology used:
 | Type | Software used | Purpose |
 | - | - | -|
 | Environment | Anaconda Spyder 5.1.5 | coding in Python |
